@@ -1,2 +1,21 @@
-# china_city_dataset
-ä¸­å›½åŸå¸‚æ•°æ®é›†
+# ÖĞ¹ú³ÇÊĞµØÃû¼°ÇøÓò»®·ÖÊı¾İ¼¯
+
+¸ÃÊı¾İ¼¯¿ÉÒÔºÍÖĞ¹úÍ³¼ÆÄê¼ø»òÕßĞĞÒµÊı¾İ½áºÏÊ¹ÓÃ¡£Ö÷Òª°üÀ¨ÒÔÏÂÌØÕ÷£º
+
+- City: ³ÇÊĞÖĞÎÄÃû³ÆËõĞ´
+- City_FullName: ³ÇÊĞÖĞÎÄÈ«³Æ
+- City_EN: ³ÇÊĞÓ¢ÎÄÃû³Æ
+- Province: Ê¡ÖĞÎÄÃû
+- Province_EN£ºÊ¡Ó¢ÎÄÃû
+- Region£ºÇøÓò»®·Ö£¨Î÷¡¢ÄÏ¡¢¶«¡¢±±£©
+- Tier£º³ÇÊĞ·Ö¼¶£¨Ò»Ïß¡¢ĞÂÒ»Ïß¡¢¶şÏß¡¢ÈıÏß¡¢ËÄÏß¡¢ÎåÏß£©
+
+
+
+³ÇÊĞÓ¢ÎÄÃû³Æ²Î¿¼ÁËÎ¬»ù°Ù¿Æ:
+https://raw.githubusercontent.com/ruixingchen/ChinaCityList/master/ChinaCityList.json
+https://en.wikipedia.org/wiki/List_of_cities_in_China
+
+
+2017ÖĞ¹ú³ÇÊĞ·Ö¼¶Ãûµ¥£º
+http://www.shidi.org/sf_8D3732FA17F54A0980C6FCCDB796B0C2_277_30764B41120.html
