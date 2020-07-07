@@ -16,6 +16,6 @@
 https://raw.githubusercontent.com/ruixingchen/ChinaCityList/master/ChinaCityList.json
 https://en.wikipedia.org/wiki/List_of_cities_in_China
 
+2020年中国城市分类名单
 
-2017中国城市分级名单：
-http://www.shidi.org/sf_8D3732FA17F54A0980C6FCCDB796B0C2_277_30764B41120.html
+https://www.yicai.com/news/100648666.html
